@@ -8,11 +8,11 @@ Estou desenvolvendo este projeto pratico usando as aulas da **DIO** (Digital Inn
 
 ## Imagens
 
-![](\Imagens\01.png)
+![](/Imagens/01.png)
 
 
 
-![](\Imagens\02.png)
+![](/Imagens/02.png)
 
 
 
